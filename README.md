@@ -20,6 +20,12 @@ the file changes on disk — so a view left open follows your saves.
 - Neovim 0.11+ for the plugin (uses `vim.system`, `vim.fs.joinpath`, `jobstart({ term = true })`)
 - A terminal with true-color support looks best; Windows, Linux and macOS all work
 
+## Screenshots
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d6f92a4f-21f4-41a4-b0b4-2f470a3f17c8" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4cb7b620-2d32-413f-9cbf-93b9c7d9ba6b" />
+
+
 ## Neovim setup
 
 ### lazy.nvim
